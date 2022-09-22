@@ -1,0 +1,20 @@
+/* body {
+  background-color: aquamarine;
+} */
+
+.tablero-tateti {
+  border: 10em;
+  background-color: blue;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.item {
+  padding: 80px;
+  text-align: center;
+  cursor: pointer;
+  border: 1px solid;
+}
+
+
+/* display grid en el tablero grande */
