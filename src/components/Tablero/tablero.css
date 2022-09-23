@@ -1,5 +1,6 @@
 .tablero-tateti {
-  border: 10em;
+  border: 3px solid;
+  border-color: yellow;
   background-color: blue;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
